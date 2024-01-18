@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi, I'm Andriy 👋
 
-<!--
-**andrIvash/andrIvash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andriy Ivashchenko a Senior Software Engineer with more than 10 years of experience. Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects.
 
-Here are some ideas to get you started:
+:mailbox: Reach me out!
+[![Linkedin Badge](https://img.shields.io/badge/-Andriy_Ivashchenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anivash/) 
+[![Mail Badge](https://img.shields.io/badge/-Andriy_Ivashchenko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:andr.ivas12@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+### Tutorials
+
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphqllist]
+
+<br/>
+
+### Bizness
+- :paperclip: [My Resume/CV]()
+- :email: andr.ivas12@gmail.com
+
+<br/>
+
+### My stats ⭐
+
+<div align="center">
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=andrIvash&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrIvash&layout=compact&&langs_count=8"/>
+</div>
