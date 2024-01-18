@@ -5,7 +5,7 @@ I'm Andriy Ivashchenko a Senior Software Engineer with more than 10 years of exp
 #### :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Andriy_Ivashchenko-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anivash/) 
-<!-- [![Mail Badge](https://img.shields.io/badge/-Andriy_Ivashchenko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:andr.ivas12@gmail.com) -->
+[![Mail Badge](https://img.shields.io/badge/-Andriy_Ivashchenko-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:andr.ivas12@gmail.com)
 
 #### Top Technologies
 
