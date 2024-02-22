@@ -1,6 +1,6 @@
 ### Hi, I'm Andriy 👋
 
-I'm Andriy Ivashchenko a Senior Software Engineer with more than 10 years of experience. Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects.
+I am Andriy Ivashchenko, a seasoned Senior Software Engineer boasting over a decade of comprehensive experience. Proficient in a spectrum of Front-end and Back-end technologies, I specialize in the development of exceptional projects, dedicating the majority of my time to coding endeavors of distinction.
 
 #### :mailbox: Reach me out!
 
